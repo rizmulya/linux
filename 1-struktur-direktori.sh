@@ -1,3 +1,4 @@
+-------------------
 STRUKTUR DIREKTORI
 
 /      -> Root direktori dari seluruh file-system hierarchy
@@ -20,3 +21,19 @@ STRUKTUR DIREKTORI
 /usr   -> Secondary hierarchy untuk read-only user data
 /var   -> Variable data yang berisi konfigurasi system, berisi file, database, log, dll
 
+
+------------------
+Beberapa direktori
+yang munkin sering digunakan
+1. Kali Network Repository
+	/etc/apt/sources.list
+	/etc/apt/sources.list.d
+2. Konfigurasi Jaringan
+	/etc/network/interfaces
+	/etc/resolv.conf
+3. Perintah tambahan
+	/usr/local/sbin
+4. Software tambahan
+	/opt
+	
+		
